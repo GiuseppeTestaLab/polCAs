@@ -18,9 +18,9 @@ An html version of the notebooks is accessible [here](https://GiuseppeTestaLab.g
 
 
 
-## Test Notebook
+## raw data import
 
-Links: [jupyter notebook](prova.ipynb) and [html file](https://GiuseppeTestaLab.github.io/polCAs/prova.html).
+Links: [jupyter notebook](01_RawImport.ipynb) and [html file](https://GiuseppeTestaLab.github.io/polCAs/01_RawImport.html).
 
 This is a **test notebook**. A very basic example of notebook, just to exemplify how the
 GitHub Actions defined in this repository work.
@@ -30,16 +30,6 @@ customize the "pages" section of the [config.yaml](https://github.com/matbonfant
 file by including the notebooks that need to be indexed. The "notebook" attribute defines the name
 of the ipynb file and the "description" attribute contains a descriptive string that will be
 included in the README and html index.
-
-
-
-
-## Test HTML File
-
-Links: [html file](https://GiuseppeTestaLab.github.io/polCAs/prova2.html).
-
-This is a **test HTML file**. This example shows how HTML files can be directly included in the 
-final repository and linked from the repository index.
 
 
 
