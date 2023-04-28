@@ -1,0 +1,37 @@
+Gene name	ASD association (gene.sfari.org)	SCZ association (szdb.org)	Dysregulated in P0 Rxrg/Rarb dKO mPFC	Dysregulated in P0 Rxrg/Rarb dKO OFC	Dysregulated in P0 Rxrg/Rarb dKO MOs	Relation to retinoic acid signaling
+ADCY8		4	Downregulated			RORA regulated Adcy8 in CTA elongation and layer 4 development
+CACNA2D3	Gene Score 2					Dysregulated in RARB mutant in adult mouse striatum
+CBLN2		3	Downregulated	Downregulated	Downregulated	CBLN2 is directly activated by RXRg/RARb through CBLN2 PFC specific regulatory element
+CDH8	Gene Score 3	2	Downregulated	Upregulated		CDH8 is induced in vitro by RA
+CDK6		2	Upregulated		Upregulated	RA can also downregulate expression of G1 CDKs, especially CDK2 and CDK6
+CNTNAP2	Gene Score 2, Syndromic	4	Upregulated	Upregulated	Downregulated	
+CTNNA1		4	Upregulated	Downregulated		
+EFNB1			Upregulated		Upregulated	EFNB1 is induced by RA
+EZR			Upregulated		Upregulated	
+FLRT3		3	Downregulated		Downreguled	FLRT3 is Induced by RA in vitro and is involved cortical development
+GAS1		1	Upregulated	Upregulated	Upregulated	GAS1 is induced by RA in RXRg dependent manner in vitro
+GLI3		2	Upregulated		Upregulated	RA represses GLI3 (SHH activated) in motoneuron differentiation
+HDAC2		3	Downregulated	Downregulated	Downregulated	
+HMGB2		3	Upregulated	Upregulated	Upregulated	
+ID4		4		Upregulated		ID4 is induced by RARb and RARg in human OPCs
+MDK		3	Upregulated		Upregulated	MDK is induced by RA in vitro, highly expressed during mid fetal development including brain
+MEGF10	Gene score 3	2	Upregulated			
+MEIS2	Gene score 1			Upregulated		RA induces MEIS2 in p19 cells, forebrain
+NES		3	Upregulated	Upregulated	Upregulated	NES induced in vitro after RA treatment
+NEUROD1			Downregulated	Upregulated	Downregulated	NEUROD1  is induced by RA during neuronal differentiation in vitro
+NR2E1		3	Upregulated			Nr2e1 expression was significantly downregulated in the brain and NSCs of RA-treated mouse embryos
+NRP1		3	Upregulated			NRP1 is upregulated in vitro with RA treatment
+PCDH8		2	Upregulated	Upregulated	Upregulated	
+PGBD5		2	Downregulated			PGBD5 upregulated by RA in vitro
+PLCH2		2	Downregulated			Retinoic acid-induced neuritogenesis was highly dependent on PLCη2 activity
+PTX3		1	Upregulated	Upregulated	Upregulated	
+RBP1			Upregulated	Downregulated	Upregulated	Involved in the transport of Retinal
+RXRG		1	Downregulated	Downregulated	Downregulated	Retinoic acid receptor
+SEMA5B		4	Upregulated	Upregulated		
+SFRP1		2	Upregulated	Upregulated	Upregulated	SFRP1 increased RDH10 mutants in PCD13.5 neocortex
+SFRP2		3				SFRP2 increased RDH10 mutants in PCD13.5 neocortex
+SNAI2				Downregulated		SNAI2 is significantly upregulated by RA in mouse limb in vitro 
+TFAP2C			Upregulated			TFAP2C induced by Retinoic Acid during Differentiation of P19 Embryonal Carcinoma Cells
+TGFB3				Downregulated	Downregulated	RA controls TGFB3 during lung bud development and induction
+VGLL4		2	Downregulated	Downregulated	Downregulated	Vgll3 expression decreases in stage 18 embryos treated with increasing concentrations of retinoic acid (RA).
+VSTM2L			Downregulated	Downregulated	Downregulated	
