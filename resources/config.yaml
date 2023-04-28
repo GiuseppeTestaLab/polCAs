@@ -4,63 +4,16 @@ short_title: "polCAs"
 subtitle: |
    Here the code used to analyse polCAs Single Cell data
    
-   Anndata of Badhuri et. al ():
+   Data should be placed as follows:
    
-   ./data/Badhuri_atlas.h5ad
+   Anndata of Badhuri et. al (10.1038/s41586-021-03910-8)    ./data/Badhuri_atlas.h5ad
    
+   Ppoliudakis et. al(10.1016/j.neuron.2019.06.011):    ./data/Geschwind_atlas.h5ad   
    
-   Ppoliudakis et. al():
+   Raw data of experiments (control1_piece1, control1_piece2 ... polaroid3_distal):    ./data
    
-   ./data/Geschwind_atlas.h5ad   
-   
-   
-   Raw data of experiments:
-   
-   ./data/control3_piece2
-   
-   ./data/control1_piece1
-   
-   ./data/control2_piece2
-   
-   ./data/control3_piece1
-   
-   ./data/control1_piece3
-   
-   ./data/control1_piece2
-   
-   ./data/control2_piece3
-   
-   ./data/control3_piece3
-   
-   ./data/control2_piece1
-   
-   ./data/polaroid2_medial
-   
-   ./data/polaroid3_medial
-   
-   ./data/polaroid3_distal
-   
-   ./data/polaroid1_distal
-   
-   ./data/polaroid2_distal
-   
-   ./data/polaroid1_medial
-   
-   ./data/polaroid1_proximal
-   
-   ./data/polaroid2_proximal
-   
-   ./data/polaroid3_proximal
-   
-   
-   pre-processed polCAs (optional):
-   
-   ./outdir/02C_Preprocess_final.h5ad
-   
-   
-   
-   
-   
+   pre-processed polCAs (optional):    ./outdir/02C_Preprocess_final.h5ad
+
 
 final: |
    Repository will be complete upon publication
