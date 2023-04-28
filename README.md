@@ -5,7 +5,7 @@
 
 Here the code used to analyse polCAs Single Cell data
 
-![Alt text](relative%20figures/FigureGithub.png?raw=true "Title")
+![plot](./figures/FigureGithub.png)
 
 
 Data should be placed as follows:
