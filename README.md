@@ -26,6 +26,14 @@ An html version of the notebooks is accessible [here](https://GiuseppeTestaLab.g
 
 ## raw data import
 
+Links: [jupyter notebook](01_RawImport.ipynb) and [html file](https://GiuseppeTestaLab.github.io/polCAs/01_RawImport.html).
+
+
+
+
+
+## Badhuri0.Preprocess
+
 Links: [jupyter notebook](Badhuri0.Preprocess.ipynb) and [html file](https://GiuseppeTestaLab.github.io/polCAs/Badhuri0.Preprocess.html).
 
 
