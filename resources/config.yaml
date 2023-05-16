@@ -23,10 +23,34 @@ final: |
 
 pages:
 
-  raw data import:
-    notebook: "01_RawImport.ipynb"
-    description: |
-
   Badhuri0.Preprocess:
     notebook: "Badhuri0.Preprocess.ipynb"
+    description: |
+
+  Badhuri01B.ProgenitorsReanalysis:
+    notebook: "Badhuri01B.ProgenitorsReanalysis.ipynb"
+    description: |
+
+  Badhuri01C.CyclingReanalysis:
+    notebook: "Badhuri01C.CyclingReanalysis.ipynb"
+    description: |
+
+  Badhuri02.preBulk:
+    notebook: "Badhuri02.preBulk.ipynb"
+    description: |
+
+  Badhuri02B.pseudoBulking:
+    notebook: "Badhuri02B.pseudoBulking.ipynb"
+    description: |
+
+  Badhuri03A_Neurons.3pointsModel:
+    notebook: "Badhuri03A_Neurons.3pointsModel.pBulk_byArea_scaling.ipynb"
+    description: |
+
+  Badhuri03B_Progenitors.3pointsModel:
+    notebook: "Badhuri03B_Progenitors.3pointsModel.pBulk_byArea_scaling.ipynb"
+    description: |
+
+  Badhuri03C_Cycling.3pointsModel:
+    notebook: "Badhuri03C_Cycling.3pointsModel.pBulk_byArea_scaling.ipynb"
     description: |
