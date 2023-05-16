@@ -8,15 +8,11 @@ Here the code used to analyse polCAs Single Cell data
 ![plot](./figures/FigureGithub.png)
 
 
-Data should be placed as follows:
-
-Anndata of Badhuri et. al (10.1038/s41586-021-03910-8)    ./data/Badhuri_atlas.h5ad
-
-Ppoliudakis et. al(10.1016/j.neuron.2019.06.011):    ./data/Geschwind_atlas.h5ad   
-
-Raw data of experiments (control1_piece1, control1_piece2 ... polaroid3_distal):    ./data
-
-pre-processed polCAs (optional):    ./outdir/02C_Preprocess_final.h5ad
+Data should be placed as follows:<br>   
+Anndata of Badhuri et. al (10.1038/s41586-021-03910-8)    ./data/Badhuri_atlas.h5ad<br>   
+Ppoliudakis et. al(10.1016/j.neuron.2019.06.011):    ./data/Geschwind_atlas.h5ad<br>   
+Raw data of experiments (control1_piece1, control1_piece2 ... polaroid3_distal):    ./data<br>   
+or pre-processed polCAs (optional):    ./outdir/02C_Preprocess_final.h5ad
 
 
 An html version of the notebooks is accessible [here](https://GiuseppeTestaLab.github.io/polCAs/).
