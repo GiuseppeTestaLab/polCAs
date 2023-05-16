@@ -27,6 +27,6 @@ pages:
     notebook: "01_RawImport.ipynb"
     description: |
 
-  raw data import:
+  Badhuri0.Preprocess:
     notebook: "Badhuri0.Preprocess.ipynb"
     description: |
