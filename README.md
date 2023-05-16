@@ -24,17 +24,65 @@ An html version of the notebooks is accessible [here](https://GiuseppeTestaLab.g
 
 
 
-## raw data import
-
-Links: [jupyter notebook](01_RawImport.ipynb) and [html file](https://GiuseppeTestaLab.github.io/polCAs/01_RawImport.html).
-
-
-
-
-
 ## Badhuri0.Preprocess
 
 Links: [jupyter notebook](Badhuri0.Preprocess.ipynb) and [html file](https://GiuseppeTestaLab.github.io/polCAs/Badhuri0.Preprocess.html).
+
+
+
+
+
+## Badhuri01B.ProgenitorsReanalysis
+
+Links: [jupyter notebook](Badhuri01B.ProgenitorsReanalysis.ipynb) and [html file](https://GiuseppeTestaLab.github.io/polCAs/Badhuri01B.ProgenitorsReanalysis.html).
+
+
+
+
+
+## Badhuri01C.CyclingReanalysis
+
+Links: [jupyter notebook](Badhuri01C.CyclingReanalysis.ipynb) and [html file](https://GiuseppeTestaLab.github.io/polCAs/Badhuri01C.CyclingReanalysis.html).
+
+
+
+
+
+## Badhuri02.preBulk
+
+Links: [jupyter notebook](Badhuri02.preBulk.ipynb) and [html file](https://GiuseppeTestaLab.github.io/polCAs/Badhuri02.preBulk.html).
+
+
+
+
+
+## Badhuri02B.pseudoBulking
+
+Links: [jupyter notebook](Badhuri02B.pseudoBulking.ipynb) and [html file](https://GiuseppeTestaLab.github.io/polCAs/Badhuri02B.pseudoBulking.html).
+
+
+
+
+
+## Badhuri03A_Neurons.3pointsModel
+
+Links: [jupyter notebook](Badhuri03A_Neurons.3pointsModel.pBulk_byArea_scaling.ipynb) and [html file](https://GiuseppeTestaLab.github.io/polCAs/Badhuri03A_Neurons.3pointsModel.pBulk_byArea_scaling.html).
+
+
+
+
+
+## Badhuri03B_Progenitors.3pointsModel
+
+Links: [jupyter notebook](Badhuri03B_Progenitors.3pointsModel.pBulk_byArea_scaling.ipynb) and [html file](https://GiuseppeTestaLab.github.io/polCAs/Badhuri03B_Progenitors.3pointsModel.pBulk_byArea_scaling.html).
+
+
+
+
+
+## Badhuri03C_Cycling.3pointsModel
+
+Links: [jupyter notebook](Badhuri03C_Cycling.3pointsModel.pBulk_byArea_scaling.ipynb) and [html file](https://GiuseppeTestaLab.github.io/polCAs/Badhuri03C_Cycling.3pointsModel.pBulk_byArea_scaling.html).
 
 
 
