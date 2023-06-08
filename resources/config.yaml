@@ -50,3 +50,43 @@ pages:
   Badhuri03C_Cycling.3pointsModel:
     notebook: "Badhuri03C_Cycling.3pointsModel.pBulk_byArea_scaling.ipynb"
     description: |
+
+  polCAs01_RawImport:
+    notebook: "polCAs01_RawImport.ipynb"
+    description: |
+
+  polCAs02_Preprocess_Gruffi:
+    notebook: "polCAs02_Preprocess_Gruffi.ipynb"
+    description: |
+
+  polCAs03_Dimreduct_exploration:
+    notebook: "polCAs03_Dimreduct_exploration.ipynb"
+    description: |
+
+  polCAs04_Dimreduct_inDepthMarkers:
+    notebook: "polCAs04_Dimreduct_inDepthMarkers.ipynb"
+    description: |
+
+  polCAs04.2_Differential_abundance:
+    notebook: "polCAs04.2_Differential_abundance.ipynb"
+    description: |
+
+  polCAs05_RG_and_Neurons_Focus:
+    notebook: "polCAs05_RG_and_Neurons_Focus.ipynb"
+    description: |
+
+  polCAs06_Dimreduct_inDepthCompositions:
+    notebook: "polCAs06_Dimreduct_inDepthCompositions.ipynb"
+    description: |
+
+  polCAs07B_Correlation_celltypes_areas:
+    notebook: "polCAs07B_Correlation_celltypes_areas.ipynb"
+    description: |
+
+  polCAs07_Correlation_celltypes:
+    notebook: "polCAs07_Correlation_celltypes.ipynb"
+    description: |
+
+  polCAs08_Developmental_Trajectories:
+    notebook: "polCAs08_Developmental_Trajectories.ipynb"
+    description: |
