@@ -163,6 +163,62 @@ Links: [jupyter notebook](polCAs08_Developmental_Trajectories.ipynb) and [html f
 
 
 
+
+## polCAsCycling01_Selection
+
+Links: [jupyter notebook](polCAsCycling01_Selection.ipynb) and [html file](https://GiuseppeTestaLab.github.io/polCAs/polCAsCycling01_Selection.html).
+
+
+
+
+
+## polCAsCycling02_pBulk
+
+Links: [jupyter notebook](polCAsCycling02_pBulk.ipynb) and [html file](https://GiuseppeTestaLab.github.io/polCAs/polCAsCycling02_pBulk.html).
+
+
+
+
+
+## polCAsCycling03_fg8_tomato_check
+
+Links: [jupyter notebook](polCAsCycling03_fg8_tomato_check.ipynb) and [html file](https://GiuseppeTestaLab.github.io/polCAs/polCAsCycling03_fg8_tomato_check.html).
+
+
+
+
+
+## polCAsCycling04_pBulk_bySegment.DEA
+
+Links: [jupyter notebook](polCAsCycling04_pBulk_bySegment.DEA.ipynb) and [html file](https://GiuseppeTestaLab.github.io/polCAs/polCAsCycling04_pBulk_bySegment.DEA.html).
+
+
+
+
+
+## polCAsCycling05A_POLAROIDS_BadhuriSpace
+
+Links: [jupyter notebook](polCAsCycling05A_POLAROIDS_BadhuriSpace.ipynb) and [html file](https://GiuseppeTestaLab.github.io/polCAs/polCAsCycling05A_POLAROIDS_BadhuriSpace.html).
+
+
+
+
+
+## polCAsCycling05B_CONTROLS_BadhuriSpace
+
+Links: [jupyter notebook](polCAsCycling05B_CONTROLS_BadhuriSpace.ipynb) and [html file](https://GiuseppeTestaLab.github.io/polCAs/polCAsCycling05B_CONTROLS_BadhuriSpace.html).
+
+
+
+
+
+## polCAsCycling05C_ALL_BadhuriSpace
+
+Links: [jupyter notebook](polCAsCycling05C_ALL_BadhuriSpace.ipynb) and [html file](https://GiuseppeTestaLab.github.io/polCAs/polCAsCycling05C_ALL_BadhuriSpace.html).
+
+
+
+
 Repository will be complete upon publication
 
 
