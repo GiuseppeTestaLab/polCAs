@@ -118,3 +118,31 @@ pages:
   polCAsCycling05C_ALL_BadhuriSpace:
     notebook: "polCAsCycling05C_ALL_BadhuriSpace.ipynb"
     description: |
+
+  polCAsProgenitors01_Selection:
+    notebook: "polCAsProgenitors01_Selection.ipynb"
+    description: |
+
+  polCAsProgenitors02_pBulk:
+    notebook: "polCAsProgenitors02_pBulk.ipynb"
+    description: |
+
+  polCAsProgenitors03_fg8_tomato_check:
+    notebook: "polCAsProgenitors03_fg8_tomato_check.ipynb"
+    description: |
+
+  polCAsProgenitors04_pBulk_bySegment.DEA:
+    notebook: "polCAsProgenitors04_pBulk_bySegment.DEA.ipynb"
+    description: |
+
+  polCAsProgenitors05A_POLAROIDSBadhuriSpace:
+    notebook: "polCAsProgenitors05A_POLAROIDSBadhuriSpace.ipynb"
+    description: |
+
+  polCAsProgenitors05B_CONTROLS_BadhuriSpace:
+    notebook: "polCAsProgenitors05B_CONTROLS_BadhuriSpace.ipynb"
+    description: |
+
+  polCAsProgenitors05C_ALL_BadhuriSpace:
+    notebook: "polCAsProgenitors05C_ALL_BadhuriSpace.ipynb"
+    description: |
