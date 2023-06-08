@@ -178,3 +178,7 @@ pages:
   polCAsNeurons05C_ALL_BadhuriSpace:
     notebook: "polCAsNeurons05C_ALL_BadhuriSpace.ipynb"
     description: |
+
+  MfuzzTrends:
+    notebook: "MfuzzTrends.ipynb"
+    description: |
