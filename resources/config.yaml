@@ -146,3 +146,31 @@ pages:
   polCAsProgenitors05C_ALL_BadhuriSpace:
     notebook: "polCAsProgenitors05C_ALL_BadhuriSpace.ipynb"
     description: |
+
+  polCAsNeurons01_Selection:
+    notebook: "polCAsNeurons01_Selection.ipynb"
+    description: |
+
+  polCAsNeurons02_pBulk:
+    notebook: "polCAsNeurons02_pBulk.ipynb"
+    description: |
+
+  polCAsNeurons03_fg8_tomato_check:
+    notebook: "polCAsNeurons03_fg8_tomato_check.ipynb"
+    description: |
+
+  polCAsNeurons04_pBulk_bySegment.DEA:
+    notebook: "polCAsNeurons04_pBulk_bySegment.DEA.ipynb"
+    description: |
+
+  polCAsNeurons05A_POLAROIDS_BadhuriSpace:
+    notebook: "polCAsNeurons05A_POLAROIDS_BadhuriSpace.ipynb"
+    description: |
+
+  polCAsNeurons05B_CONTROLS_BadhuriSpace:
+    notebook: "polCAsNeurons05B_CONTROLS_BadhuriSpace.ipynb"
+    description: |
+
+  polCAsNeurons05C_ALL_BadhuriSpace:
+    notebook: "polCAsNeurons05C_ALL_BadhuriSpace.ipynb"
+    description: |
