@@ -8,6 +8,10 @@ Here the code used to analyse polCAs Single Cell data
 ![plot](./figures/FigureGithub.png)
 
 
+base docker image can be retrieved via docker pull testalab/downstream:polaroid-0.1.3
+
+list of additional libraries installed locally can be found in data/env/python3_libs.txt and data/env/R_libs.txt
+
 Data should be placed as follows:<br>   
 Anndata of Badhuri et. al (10.1038/s41586-021-03910-8)    ./data/Badhuri_atlas.h5ad<br>   
 Ppoliudakis et. al(10.1016/j.neuron.2019.06.011):    ./data/Geschwind_atlas.h5ad<br>   
