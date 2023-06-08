@@ -90,3 +90,31 @@ pages:
   polCAs08_Developmental_Trajectories:
     notebook: "polCAs08_Developmental_Trajectories.ipynb"
     description: |
+
+  polCAsCycling01_Selection:
+    notebook: "polCAsCycling01_Selection.ipynb"
+    description: |
+
+  polCAsCycling02_pBulk:
+    notebook: "polCAsCycling02_pBulk.ipynb"
+    description: |
+
+  polCAsCycling03_fg8_tomato_check:
+    notebook: "polCAsCycling03_fg8_tomato_check.ipynb"
+    description: |
+
+  polCAsCycling04_pBulk_bySegment.DEA:
+    notebook: "polCAsCycling04_pBulk_bySegment.DEA.ipynb"
+    description: |
+
+  polCAsCycling05A_POLAROIDS_BadhuriSpace:
+    notebook: "polCAsCycling05A_POLAROIDS_BadhuriSpace.ipynb"
+    description: |
+
+  polCAsCycling05B_CONTROLS_BadhuriSpace:
+    notebook: "polCAsCycling05B_CONTROLS_BadhuriSpace.ipynb"
+    description: |
+
+  polCAsCycling05C_ALL_BadhuriSpace:
+    notebook: "polCAsCycling05C_ALL_BadhuriSpace.ipynb"
+    description: |
