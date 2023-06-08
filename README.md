@@ -83,6 +83,86 @@ Links: [jupyter notebook](Badhuri03C_Cycling.3pointsModel.pBulk_byArea_scaling.i
 
 
 
+
+## polCAs01_RawImport
+
+Links: [jupyter notebook](polCAs01_RawImport.ipynb) and [html file](https://GiuseppeTestaLab.github.io/polCAs/polCAs01_RawImport.html).
+
+
+
+
+
+## polCAs02_Preprocess_Gruffi
+
+Links: [jupyter notebook](polCAs02_Preprocess_Gruffi.ipynb) and [html file](https://GiuseppeTestaLab.github.io/polCAs/polCAs02_Preprocess_Gruffi.html).
+
+
+
+
+
+## polCAs03_Dimreduct_exploration
+
+Links: [jupyter notebook](polCAs03_Dimreduct_exploration.ipynb) and [html file](https://GiuseppeTestaLab.github.io/polCAs/polCAs03_Dimreduct_exploration.html).
+
+
+
+
+
+## polCAs04_Dimreduct_inDepthMarkers
+
+Links: [jupyter notebook](polCAs04_Dimreduct_inDepthMarkers.ipynb) and [html file](https://GiuseppeTestaLab.github.io/polCAs/polCAs04_Dimreduct_inDepthMarkers.html).
+
+
+
+
+
+## polCAs04.2_Differential_abundance
+
+Links: [jupyter notebook](polCAs04.2_Differential_abundance.ipynb) and [html file](https://GiuseppeTestaLab.github.io/polCAs/polCAs04.2_Differential_abundance.html).
+
+
+
+
+
+## polCAs05_RG_and_Neurons_Focus
+
+Links: [jupyter notebook](polCAs05_RG_and_Neurons_Focus.ipynb) and [html file](https://GiuseppeTestaLab.github.io/polCAs/polCAs05_RG_and_Neurons_Focus.html).
+
+
+
+
+
+## polCAs06_Dimreduct_inDepthCompositions
+
+Links: [jupyter notebook](polCAs06_Dimreduct_inDepthCompositions.ipynb) and [html file](https://GiuseppeTestaLab.github.io/polCAs/polCAs06_Dimreduct_inDepthCompositions.html).
+
+
+
+
+
+## polCAs07B_Correlation_celltypes_areas
+
+Links: [jupyter notebook](polCAs07B_Correlation_celltypes_areas.ipynb) and [html file](https://GiuseppeTestaLab.github.io/polCAs/polCAs07B_Correlation_celltypes_areas.html).
+
+
+
+
+
+## polCAs07_Correlation_celltypes
+
+Links: [jupyter notebook](polCAs07_Correlation_celltypes.ipynb) and [html file](https://GiuseppeTestaLab.github.io/polCAs/polCAs07_Correlation_celltypes.html).
+
+
+
+
+
+## polCAs08_Developmental_Trajectories
+
+Links: [jupyter notebook](polCAs08_Developmental_Trajectories.ipynb) and [html file](https://GiuseppeTestaLab.github.io/polCAs/polCAs08_Developmental_Trajectories.html).
+
+
+
+
 Repository will be complete upon publication
 
 
