@@ -1,0 +1,34 @@
+
+uns_colors:
+  "medial":
+    color : "#CD5C5C"
+  "distal":
+    color : "#FFCBCB"
+  "proximal":
+    color : "#8D021F"
+  "piece1":
+    color : "#281E5D"
+  "piece2":
+    color : "#3779FF"
+  "piece3":
+    color : "#BFD4FF"
+  "control":
+    color : "#0056D1"
+  "polaroid":
+    color : "#DE001E"
+  "enriched":
+    color : "#DE001E"
+  "not_enriched":
+    color : "#0056D1"
+  "pfc":
+    color : "#DE001E"
+  "somatosensory":
+    color : "#E5E4E2"
+  "temporal":
+    color : "#0056D1"
+  "motor":
+    color : "#37F7C8"
+  "v1":
+    color : "#28F30C"
+  "parietal":
+    color : "#D41FFC"
