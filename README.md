@@ -335,6 +335,14 @@ Links: [jupyter notebook](polCAsNeurons05C_ALL_BadhuriSpace.ipynb) and [html fil
 
 
 
+
+## MfuzzTrends
+
+Links: [jupyter notebook](MfuzzTrends.ipynb) and [html file](https://GiuseppeTestaLab.github.io/polCAs/MfuzzTrends.html).
+
+
+
+
 Repository will be complete upon publication
 
 
