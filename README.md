@@ -144,22 +144,6 @@ Links: [jupyter notebook](polCAs06_Dimreduct_inDepthCompositions.ipynb) and [htm
 
 
 
-## polCAs07B_Correlation_celltypes_areas
-
-Links: [jupyter notebook](polCAs07B_Correlation_celltypes_areas.ipynb) and [html file](https://GiuseppeTestaLab.github.io/polCAs/polCAs07B_Correlation_celltypes_areas.html).
-
-
-
-
-
-## polCAs07_Correlation_celltypes
-
-Links: [jupyter notebook](polCAs07_Correlation_celltypes.ipynb) and [html file](https://GiuseppeTestaLab.github.io/polCAs/polCAs07_Correlation_celltypes.html).
-
-
-
-
-
 ## polCAs08_Developmental_Trajectories
 
 Links: [jupyter notebook](polCAs08_Developmental_Trajectories.ipynb) and [html file](https://GiuseppeTestaLab.github.io/polCAs/polCAs08_Developmental_Trajectories.html).
@@ -217,6 +201,14 @@ Links: [jupyter notebook](polCAsCycling05B_CONTROLS_BadhuriSpace.ipynb) and [htm
 
 
 ## polCAsCycling05C_ALL_BadhuriSpace
+
+Links: [jupyter notebook](polCAsCycling05C_ALL_BadhuriSpace.ipynb) and [html file](https://GiuseppeTestaLab.github.io/polCAs/polCAsCycling05C_ALL_BadhuriSpace.html).
+
+
+
+
+
+## polCAsBadhuriSpace_LoadingsAgreement
 
 Links: [jupyter notebook](polCAsCycling05C_ALL_BadhuriSpace.ipynb) and [html file](https://GiuseppeTestaLab.github.io/polCAs/polCAsCycling05C_ALL_BadhuriSpace.html).
 
@@ -339,6 +331,54 @@ Links: [jupyter notebook](polCAsNeurons05C_ALL_BadhuriSpace.ipynb) and [html fil
 ## MfuzzTrends
 
 Links: [jupyter notebook](MfuzzTrends.ipynb) and [html file](https://GiuseppeTestaLab.github.io/polCAs/MfuzzTrends.html).
+
+
+
+
+
+## BraunAtlas_comparison_01atlasPrep
+
+Links: [jupyter notebook](BraunAtlas_comparison.01atlasPrep.ipynb) and [html file](https://GiuseppeTestaLab.github.io/polCAs/BraunAtlas_comparison.01atlasPrep.html).
+
+
+
+
+
+## BraunAtlas_comparison_02organopidsPrep
+
+Links: [jupyter notebook](BraunAtlas_comparison.02organopidsPrep.ipynb) and [html file](https://GiuseppeTestaLab.github.io/polCAs/BraunAtlas_comparison.02organopidsPrep.html).
+
+
+
+
+
+## BraunAtlas_comparison_03polCAsCompare
+
+Links: [jupyter notebook](BraunAtlas_comparison.03polCAsCompare.ipynb) and [html file](https://GiuseppeTestaLab.github.io/polCAs/BraunAtlas_comparison.03polCAsCompare.html).
+
+
+
+
+
+## BraunAtlas_comparison_04KantonCompare
+
+Links: [jupyter notebook](BraunAtlas_comparison.04KantonCompare.ipynb) and [html file](https://GiuseppeTestaLab.github.io/polCAs/BraunAtlas_comparison.04KantonCompare.html).
+
+
+
+
+
+## BraunAtlas_comparison_05VelascoCompare
+
+Links: [jupyter notebook](BraunAtlas_comparison.05VelascoCompare.ipynb) and [html file](https://GiuseppeTestaLab.github.io/polCAs/BraunAtlas_comparison.05VelascoCompare.html).
+
+
+
+
+
+## COL1A2gene_check
+
+Links: [jupyter notebook](COL1A2genes.ipynb) and [html file](https://GiuseppeTestaLab.github.io/polCAs/COL1A2genes.html).
 
 
 
