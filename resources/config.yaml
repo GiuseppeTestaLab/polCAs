@@ -83,14 +83,6 @@ pages:
     notebook: "polCAs06_Dimreduct_inDepthCompositions.ipynb"
     description: |
 
-  polCAs07B_Correlation_celltypes_areas:
-    notebook: "polCAs07B_Correlation_celltypes_areas.ipynb"
-    description: |
-
-  polCAs07_Correlation_celltypes:
-    notebook: "polCAs07_Correlation_celltypes.ipynb"
-    description: |
-
   polCAs08_Developmental_Trajectories:
     notebook: "polCAs08_Developmental_Trajectories.ipynb"
     description: |
@@ -120,6 +112,10 @@ pages:
     description: |
 
   polCAsCycling05C_ALL_BadhuriSpace:
+    notebook: "polCAsCycling05C_ALL_BadhuriSpace.ipynb"
+    description: |
+
+  polCAsBadhuriSpace_LoadingsAgreement:
     notebook: "polCAsCycling05C_ALL_BadhuriSpace.ipynb"
     description: |
 
@@ -181,4 +177,28 @@ pages:
 
   MfuzzTrends:
     notebook: "MfuzzTrends.ipynb"
+    description: |
+
+  BraunAtlas_comparison_01atlasPrep:
+    notebook: "BraunAtlas_comparison.01atlasPrep.ipynb"
+    description: |
+
+  BraunAtlas_comparison_02organopidsPrep:
+    notebook: "BraunAtlas_comparison.02organopidsPrep.ipynb"
+    description: |
+
+  BraunAtlas_comparison_03polCAsCompare:
+    notebook: "BraunAtlas_comparison.03polCAsCompare.ipynb"
+    description: |
+
+  BraunAtlas_comparison_04KantonCompare:
+    notebook: "BraunAtlas_comparison.04KantonCompare.ipynb"
+    description: |
+
+  BraunAtlas_comparison_05VelascoCompare:
+    notebook: "BraunAtlas_comparison.05VelascoCompare.ipynb"
+    description: |
+
+  COL1A2gene_check:
+    notebook: "COL1A2genes.ipynb"
     description: |
